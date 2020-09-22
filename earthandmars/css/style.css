@@ -1,0 +1,26 @@
+body {
+    background-color: #333;
+    color: #f4f4f4;  
+}
+
+h1 {
+    font-size: 60px;
+    color:cyan;
+}
+      
+ h2 {
+     color: coral;   
+    }
+
+ h3 {
+    color: red;
+    }
+     
+a {
+    color: hotpink;
+  }
+
+  .intro {
+      color: red
+  }
+    
