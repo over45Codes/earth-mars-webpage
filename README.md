@@ -1,13 +1,13 @@
-# Earth and Mars Webpage
+# Earth and Mars Webpage in HTML and CSS
 
 
-Earth and Mars Webpages built in HTML and included images 
+Earth and Mars Webpages built in HTML, CSS and included images 
 
-
+Try it [here!](https://gracii.github.io/earth-mars/)
 
 
 ## Summary
-This is a good starter project when you are starting to learn HTML with images.  This webpage was fun to build and I learned how to code in HTLM and attach images. Very simple straight forward project. 
+This is a good starter project when you are starting to learn HTML, CSS which include images.  This webpage was fun to build, very simple straight forward project. 
 
 ## Author
 * Grace Castaneda - Newbie Coder -
