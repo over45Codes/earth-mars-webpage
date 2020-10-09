@@ -10,4 +10,4 @@ Try it [here!](https://gracii.github.io/earth-mars/)
 This is a good starter project when you are starting to learn HTML, CSS which include images.  This webpage was fun to build, very simple straight forward project. 
 
 ## Author
-* Grace Castaneda - Newbie Coder -
+* Grace Castaneda - Passionate Coder - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
