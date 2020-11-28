@@ -3,7 +3,8 @@
 
 Earth and Mars Webpages built in HTML, CSS and included images 
 
-Try it [here!](https://gracii.github.io/earth-mars/)
+Try it [here!](https://gracii.github.io/Earth-Mars/)
+
 
 ![alt text](https://github.com/Gracii/earth-mars/blob/master/images/Earth%20and%20Mars%20Webpage.png)
 
