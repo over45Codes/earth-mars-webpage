@@ -1,27 +1,26 @@
 body {
-    background-color: lightslategray;
-    color: darkblue;  
-    padding: 25px;
+  background-color: lightslategray;
+  color: whitesmoke;
+  padding: 25px;
 }
 
 h1 {
-    font-size: 35px;
-    color: darkmagenta;
+  font-size: 40px;
+  color: white;
 }
-      
- h2 {
-     color: coral;   
-    }
 
- h3 {
-    color: red;
-    }
-     
+h2 {
+  color: lawngreen;
+}
+
+h3 {
+  color: black;
+}
+
 a {
-    color: black;
-  }
+  color: black;
+}
 
-  .intro {
-      color: red
-  }
-    
+.intro {
+  color: lightcyan;
+}
