@@ -12,4 +12,4 @@ This is a good starter project when you are starting to learn HTML, CSS which in
 
 ## Author
 
-- Grace Castaneda - Loving the world of coding - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Grace Castaneda aka over45Codes - Loving the world of coding - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
