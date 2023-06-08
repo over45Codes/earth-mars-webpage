@@ -8,8 +8,8 @@ Try it [here!](https://graciicodes.github.io/Earth-Mars/)
 
 ## Summary
 
-This is a good starter project when you are starting to learn HTML, CSS which include images. This webpage was fun to build, very simple straight forward project.
+This is a good starter project when you are starting to learn HTML, CSS which include images. This webpage was fun to build, very simple straight forward project. 
 
 ## Author
 
-- Grace Castaneda - Passionate Coder - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Grace Castaneda - Loving the world of coding - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
